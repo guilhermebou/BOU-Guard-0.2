@@ -1,0 +1,2 @@
+"[1] \"Quando você virou gay?\"\n[2] \"Não precisa ficar se beijando na frente dos outros\"\n[3] \"Isso é coisa de viado\"\n[4] \"Ser gay é errado\"\n[5] \"Homossexualidade é uma doença\"\n[6] \"Você não parece gay\"\n[7] \"Homem não chora\"\n[8] \"Isso é coisa de macho\"\n[9] \"Mulheres não são engraçadas\"\n[10] \"Você é mulher, não pode fazer isso\"\n[11] \"Não seja tão sensível, pareça um homem\""
+"[1] frases homofóbicas\n[2] homofobia\n[3] preconceito\n[4] respeito"

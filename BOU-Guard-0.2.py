@@ -123,5 +123,3 @@ if analyst > 0.05:
     with open("BOU-Guard/OutPuts/TEMAS/OUTPUT.txt", "w", encoding="utf-8") as file_txt:
         for response in all_output:
             file_txt.write(json.dumps(response, ensure_ascii=False) + "\n")
-
-
